@@ -10,6 +10,8 @@ The Roadmap is divided into:
 - Loops Statements with Continue & Break statement
 - Strings and its Operation
 - Function
+
+
 2- 4 built-in data types
  in Python used to store collections of data
 - List
