@@ -18,3 +18,13 @@ The Roadmap is divided into:
 - Dictionary
 - Tuple
 - Set
+
+
+3-Object Orientated Programming 
+- Classes
+- Objects
+- Method calls
+- Inheritance
+- Encapsulation and Abstraction
+- Polymorphism
+- Message Passing
