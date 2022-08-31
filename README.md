@@ -30,7 +30,7 @@ The Roadmap is divided into:
 - Message Passing
 
 4-Exception Handling
-- Try and excepte
+- Try and except
 - Raise
 
 5-File Handling
