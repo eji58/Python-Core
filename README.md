@@ -28,3 +28,12 @@ The Roadmap is divided into:
 - Encapsulation and Abstraction
 - Polymorphism
 - Message Passing
+
+4-Exception Handling
+-Try and excepte
+-Raise
+
+5-File Handling
+-Read
+-Write
+-Append
