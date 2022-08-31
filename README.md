@@ -30,10 +30,10 @@ The Roadmap is divided into:
 - Message Passing
 
 4-Exception Handling
--Try and excepte
--Raise
+- Try and excepte
+- Raise
 
 5-File Handling
--Read
--Write
--Append
+- Read
+- Write
+- Append
